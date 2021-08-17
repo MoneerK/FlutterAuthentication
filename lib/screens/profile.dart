@@ -10,7 +10,7 @@ class ProfilePage extends StatelessWidget {
           AppBar(
             title: Text('Profile Page'),
           ),
-          MyTextButton(pathName: "/login", buttonName: "Sign out"),
+          MyTextButton(pathName: "/login", buttonName: "SignOut"),
         ],
       ),
     );
